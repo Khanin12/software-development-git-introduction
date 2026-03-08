@@ -5,3 +5,6 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 Nama : Khanin Oktavia 
 NPM : 2313020019
 Deskripsi singkat repository : Software Development Git Introduction
+
+
+Tujuan dibuatnya repository ini sebagau tugas pengenalan Git dan GitHub pada mata kuliah Software Development dengan menggunakan beberapa tools yaitu:Git, GitHub serta Visual Studio Code. beberapa daftar file yang ada direpository ini ada README.md dan pengenalan.md
